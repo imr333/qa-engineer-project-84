@@ -12,10 +12,6 @@
   status: pass
   
 - summary: |
-    Опция очистки корзины
-  status: pass
-  
-- summary: |
     Опция возврата к покупкам из корзины
   status: pass
   
