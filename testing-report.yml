@@ -45,11 +45,11 @@
 
 - summary: |
     Сортировка товаров по категории 
-  status: pass
+  status: fail
   
 - summary: |
     Сортировка товаров по производителю 
-  status: pass
+  status: fail
   
 - summary: |
     Сортировка товара по наличию
@@ -57,15 +57,15 @@
 
 - summary: |
     Сортировка товара от минимальной стоимости
-  status: pass
+  status: fail
   
 - summary: |
     Сортировка товара до максимальной стоимости
-  status: pass
+  status: fail
   
 - summary: |
     Сортировка товара внутри ценового диапазона "От":"До"
-  status: pass 
+  status: fail 
   
 - summary: |
     Добавление товарной позиции в корзину
