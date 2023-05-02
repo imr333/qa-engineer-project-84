@@ -84,5 +84,4 @@ test-cases:
       Переход на карточку товара
     status: pass 
   
-bugreports:
-  []
+bugreports: []
